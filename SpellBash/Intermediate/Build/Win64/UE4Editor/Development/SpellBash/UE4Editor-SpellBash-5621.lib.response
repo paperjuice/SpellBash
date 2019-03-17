@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpellBash-5621.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\SpellBashEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\UE4Editor\Development\SpellBash\SpellBash.cpp.obj"
+"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\UE4Editor\Development\SpellBash\SpellBashGameModeBase.cpp.obj"
+"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\UE4Editor\Development\SpellBash\SpellBash.init.gen.cpp.obj"
+"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\UE4Editor\Development\SpellBash\SpellBashGameModeBase.gen.cpp.obj"
+"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\UE4Editor\Development\SpellBash\PCLaunch.rc.res"
+/OUT:"D:\PaperjuiceInc\SpellBash\SpellBash\Intermediate\Build\Win64\UE4Editor\Development\SpellBash\UE4Editor-SpellBash-5621.lib"
