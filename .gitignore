@@ -1,3 +1,7 @@
+# Content from the Epic Store
+# * FXVarietyPack
+ExternalContent/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
