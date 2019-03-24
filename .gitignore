@@ -1,6 +1,6 @@
 # Content from the Epic Store
 # * FXVarietyPack
-ExternalContent/*
+SpellBash/Content/zExternalContent/*
 
 # Visual Studio 2015 user specific files
 .vs/
