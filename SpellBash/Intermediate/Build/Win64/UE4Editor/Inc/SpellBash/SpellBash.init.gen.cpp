@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeSpellBash_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/SpellBash",
 				PKG_CompiledIn | 0x00000000,
-				0x39189864,
-				0x1BCF48E5,
+				0x685E7032,
+				0x84725728,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

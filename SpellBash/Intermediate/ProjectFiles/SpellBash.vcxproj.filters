@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SpellBash.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5F492B8A-77F8-481C-BDC6-8F80A43B8727}</UniqueIdentifier>
+      <UniqueIdentifier>{C5F640D0-3E38-496C-82BC-0A2C27542820}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SpellBash.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E18DA684-8633-41CF-9D34-0DB1051A53CC}</UniqueIdentifier>
+      <UniqueIdentifier>{7E47983B-F978-47BC-9BEF-42BF0D7766ED}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +23,18 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\SpellBash">
-      <UniqueIdentifier>{09EB957A-F59E-495A-9793-582443BCCCF0}</UniqueIdentifier>
+      <UniqueIdentifier>{E8A92315-6B09-4CDD-82A4-7BAF52D161F3}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SpellBash\MC_Utils.cpp">
+      <Filter>Source\SpellBash</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpellBash\MC_Utils.h">
+      <Filter>Source\SpellBash</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SpellBash\SpellBash.Build.cs">
       <Filter>Source\SpellBash</Filter>
     </None>
