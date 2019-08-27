@@ -1,0 +1,2 @@
+D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\Definitions.SpiritDecay.h
+d:\paperjuiceinc\spiritdecay\spiritdecay\source\spiritdecay\SpiritDecay.h

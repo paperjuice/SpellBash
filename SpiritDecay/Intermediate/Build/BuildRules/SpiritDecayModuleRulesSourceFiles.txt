@@ -1,0 +1,3 @@
+D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Source\SpiritDecay\SpiritDecay.Build.cs
+D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Source\SpiritDecay.Target.cs
+D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Source\SpiritDecayEditor.Target.cs

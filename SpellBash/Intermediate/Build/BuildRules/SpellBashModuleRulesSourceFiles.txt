@@ -1,3 +1,0 @@
-D:\PaperjuiceInc\SpellBash\SpellBash\Source\SpellBash\SpellBash.Build.cs
-D:\PaperjuiceInc\SpellBash\SpellBash\Source\SpellBash.Target.cs
-D:\PaperjuiceInc\SpellBash\SpellBash\Source\SpellBashEditor.Target.cs

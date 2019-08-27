@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpiritDecay.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\SpiritDecayEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\SpiritDecay.cpp.obj"
+"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\SpiritDecayGameModeBase.cpp.obj"
+"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\SpiritDecay.init.gen.cpp.obj"
+"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\SpiritDecayGameModeBase.gen.cpp.obj"
+"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\Default.rc2.res"
+/OUT:"D:\PaperjuiceInc\SpiritDecay\SpiritDecay\Intermediate\Build\Win64\UE4Editor\Development\SpiritDecay\UE4Editor-SpiritDecay.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpiritDecay

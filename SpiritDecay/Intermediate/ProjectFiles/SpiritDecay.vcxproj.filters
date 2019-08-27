@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpiritDecay.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6F98D19C-1D14-4A85-AE6D-6654486FAE76}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpiritDecay.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpiritDecayEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5627A4A2-58A9-4077-A3A0-8550F2B1EFAC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{6E02A0F1-B88C-423D-98FA-EBF5B4C59DE1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{674E4D9E-8293-4821-BFD5-1C2BA385C46A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{0B93F792-0496-4FDC-9452-590A197270C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{FECB6AC0-BCDF-40F2-8AA6-77FEF49526EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{DF793A5F-4F8E-4CB7-8F69-4E7891BB15A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{7A2ADC2E-603F-48B9-9E9A-0D216E528962}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{F04100B4-14A0-4B85-84FD-1FF228CA72FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{BD7679DE-DF92-48C4-86D1-3E211A0B0904}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\SpiritDecay">
+      <UniqueIdentifier>{C6066C36-76F6-474D-917D-81A908DC8B7A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpiritDecay\SpiritDecay.Build.cs">
+      <Filter>Source\SpiritDecay</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpiritDecay\SpiritDecay.cpp">
+      <Filter>Source\SpiritDecay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpiritDecay\SpiritDecay.h">
+      <Filter>Source\SpiritDecay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpiritDecay\SpiritDecayGameModeBase.cpp">
+      <Filter>Source\SpiritDecay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpiritDecay\SpiritDecayGameModeBase.h">
+      <Filter>Source\SpiritDecay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
